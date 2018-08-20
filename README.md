@@ -1,3 +1,3 @@
 # MigratingToGitlab
 
-## Finally i decided to migrate to Gitlab, now my open source project is http://www.gitlab.com/riccardoferrari
+## Finally i decided to migrate to Gitlab, now my open source profile is http://www.gitlab.com/riccardoferrari
